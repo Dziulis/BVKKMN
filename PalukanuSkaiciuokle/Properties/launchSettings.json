@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PalukanuSkaiciuokle": {
+      "commandName": "Project",
+      "commandLineArgs": "3000 58 0,16 16"
+    }
+  }
+}
